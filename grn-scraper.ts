@@ -1,3 +1,6 @@
+/**
+ * Run this file first, it caches all the language pages into the Deno cache.
+ */
 import { cache } from "https://deno.land/x/cache/mod.ts";
 
 const total = 27986

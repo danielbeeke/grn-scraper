@@ -4,9 +4,9 @@ import {
   Element,
 } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
-import { onlyUnique } from './onlyUnique.ts'
+import { onlyUnique } from './helpers/onlyUnique.ts'
 
-const addToObject = (string: string, object: any) => {
+export const addToObject = (string: string, object: any) => {
   const lines = string.split('\n')
   for (const line of lines) {
     const [key, ...values] = line.split(': ')
