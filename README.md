@@ -1,0 +1,1 @@
+# A scraper for https://globalrecordings.net used for github.com/danielbeeke/bcp47-picker

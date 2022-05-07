@@ -19,16 +19,16 @@ const toIndexed = (indexArray: Array<string>, names: Array<string>) => {
 const compress = (object: { [key: string]: any }) => {
   const name = object['Language name']
   const output: { [key: string]: any } = {
-    p: object['Population'] ? parseInt(object['Population']) : null,
-    r: parseInt(object['GRN Language Number']),
+    // p: object['Population'] ? parseInt(object['Population']) : null,
+    g: parseInt(object['GRN Language Number']),
     i: object['ISO Language Code'],
-    o: object.iso,
-    c: object.countries?.map((fips: string) => {
-      if (!countries[fips]) return null
-      return countries[fips]['ISO Country Code']
-    }).filter(Boolean),
+    p: object.iso,
+    // c: object.countries?.map((fips: string) => {
+    //   if (!countries[fips]) return null
+    //   return countries[fips]['ISO Country Code']
+    // }).filter(Boolean),
     s: object.names ? toIndexed(names, object.names) : null,
-    g: object.peopleGroups ? toIndexed(names, object.peopleGroups) : null,
+    // g: object.peopleGroups ? toIndexed(names, object.peopleGroups) : null,
     n: toIndexed(names, [name])[0]
   }
 
@@ -55,7 +55,7 @@ for (const country of Object.values(countries)) {
 const output = {
   languages: compressedLanguages,
   names,
-  countries: countryNames,
+  // countries: countryNames,
 }
 
 Deno.writeTextFileSync('./compressed.json', JSON.stringify(output))

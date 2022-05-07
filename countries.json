@@ -1,0 +1,2065 @@
+{
+  "AS": {
+    "Region": "Oceania",
+    "Capital": "Canberra",
+    "Population": "24,600,000",
+    "Area (sq km)": "7,686,850",
+    "FIPS Country Code": "AS",
+    "ISO Country Code": "AU",
+    "GRN Office": "Global Recordings Network Australia",
+    "name": "Australia"
+  },
+  "CD": {
+    "Region": "Africa",
+    "Capital": "N'Djamena",
+    "Population": "11,274,106",
+    "Area (sq km)": "1,284,000",
+    "FIPS Country Code": "CD",
+    "ISO Country Code": "TD",
+    "name": "Chad"
+  },
+  "DJ": {
+    "Region": "Africa",
+    "Capital": "Djibouti",
+    "Population": "879,000",
+    "Area (sq km)": "23,200",
+    "FIPS Country Code": "DJ",
+    "ISO Country Code": "DJ",
+    "name": "Djibouti"
+  },
+  "EG": {
+    "Region": "Africa",
+    "Capital": "Cairo",
+    "Population": "78,848,000",
+    "Area (sq km)": "997,739",
+    "FIPS Country Code": "EG",
+    "ISO Country Code": "EG",
+    "name": "Egypt"
+  },
+  "ER": {
+    "Region": "Africa",
+    "Capital": "Asmara (Asmera)",
+    "Population": "5,224,000",
+    "Area (sq km)": "121,100",
+    "FIPS Country Code": "ER",
+    "ISO Country Code": "ER",
+    "name": "Eritrea"
+  },
+  "ET": {
+    "Region": "Africa",
+    "Capital": "Addis Ababa",
+    "Population": "79,221,000",
+    "Area (sq km)": "1,106,000",
+    "FIPS Country Code": "ET",
+    "ISO Country Code": "ET",
+    "name": "Ethiopia"
+  },
+  "IS": {
+    "Region": "Asia",
+    "Capital": "Jerusalem",
+    "Population": "7,602,400",
+    "Area (sq km)": "20,700",
+    "FIPS Country Code": "IS",
+    "ISO Country Code": "IL",
+    "name": "Israel"
+  },
+  "SW": {
+    "Region": "Europe",
+    "Capital": "Stockholm",
+    "Population": "9,366,092",
+    "Area (sq km)": "449,964",
+    "FIPS Country Code": "SW",
+    "ISO Country Code": "SE",
+    "name": "Sweden"
+  },
+  "US": {
+    "Region": "The Americas",
+    "Capital": "Washington",
+    "Population": "309,975,000",
+    "Area (sq km)": "9,529,063",
+    "FIPS Country Code": "US",
+    "ISO Country Code": "US",
+    "GRN Office": "Global Recordings Network USA",
+    "name": "United States of America"
+  },
+  "CB": {
+    "Region": "Asia",
+    "Capital": "Phnom Penh",
+    "Population": "13,395,682",
+    "Area (sq km)": "181,035",
+    "FIPS Country Code": "CB",
+    "ISO Country Code": "KH",
+    "name": "Cambodia"
+  },
+  "FR": {
+    "Region": "Europe",
+    "Capital": "Paris",
+    "Population": "65,447,374",
+    "Area (sq km)": "543,965",
+    "FIPS Country Code": "FR",
+    "ISO Country Code": "FR",
+    "GRN Office": "Audio Vie France",
+    "name": "France"
+  },
+  "LA": {
+    "Region": "Asia",
+    "Capital": "Vientiane",
+    "Population": "6,436,000",
+    "Area (sq km)": "236,800",
+    "FIPS Country Code": "LA",
+    "ISO Country Code": "LA",
+    "name": "Laos"
+  },
+  "TH": {
+    "Region": "Asia",
+    "Capital": "BANGKOK",
+    "Population": "63,525,062",
+    "Area (sq km)": "513,115",
+    "FIPS Country Code": "TH",
+    "ISO Country Code": "TH",
+    "GRN Office": "Sounds of Language Foundation Thailand",
+    "name": "Thailand"
+  },
+  "VM": {
+    "Region": "Asia",
+    "Capital": "Hanoi",
+    "Population": "85,789,573",
+    "Area (sq km)": "331,653",
+    "FIPS Country Code": "VM",
+    "ISO Country Code": "VN",
+    "name": "Vietnam"
+  },
+  "AF": {
+    "Region": "Asia",
+    "Capital": "Kabul",
+    "Population": "29,117,000",
+    "Area (sq km)": "647,500",
+    "FIPS Country Code": "AF",
+    "ISO Country Code": "AF",
+    "name": "Afghanistan"
+  },
+  "LY": {
+    "Region": "Africa",
+    "Capital": "TRIPOLI",
+    "Population": "6,546,000",
+    "Area (sq km)": "1,775,500",
+    "FIPS Country Code": "LY",
+    "ISO Country Code": "LY",
+    "name": "Libya"
+  },
+  "SO": {
+    "Region": "Africa",
+    "Capital": "Mogadishu (Muqdisho)",
+    "Population": "9,359,000",
+    "Area (sq km)": "637,000",
+    "FIPS Country Code": "SO",
+    "ISO Country Code": "SO",
+    "name": "Somalia"
+  },
+  "AR": {
+    "Region": "The Americas",
+    "Capital": "Buenos Aires",
+    "Population": "40,518,951",
+    "Area (sq km)": "2,780,092",
+    "FIPS Country Code": "AR",
+    "ISO Country Code": "AR",
+    "name": "Argentina"
+  },
+  "CI": {
+    "Region": "The Americas",
+    "Capital": "Santiago",
+    "Population": "17,114,000",
+    "Area (sq km)": "756,626",
+    "FIPS Country Code": "CI",
+    "ISO Country Code": "CL",
+    "name": "Chile"
+  },
+  "AM": {
+    "Region": "Europe",
+    "Capital": "Yerevan",
+    "Population": "2,983,990",
+    "Area (sq km)": "29,800",
+    "FIPS Country Code": "AM",
+    "ISO Country Code": "AM",
+    "name": "Armenia"
+  },
+  "AJ": {
+    "Region": "Europe",
+    "Capital": "Baku",
+    "Population": "9,298,000",
+    "Area (sq km)": "86,600",
+    "FIPS Country Code": "AJ",
+    "ISO Country Code": "AZ",
+    "name": "Azerbaijan"
+  },
+  "BU": {
+    "Region": "Europe",
+    "Capital": "Sofia",
+    "Population": "7,576,751",
+    "Area (sq km)": "110,912",
+    "FIPS Country Code": "BU",
+    "ISO Country Code": "BG",
+    "name": "Bulgaria"
+  },
+  "CA": {
+    "Region": "The Americas",
+    "Capital": "Ottawa",
+    "Population": "34,207,000",
+    "Area (sq km)": "9,970,610",
+    "FIPS Country Code": "CA",
+    "ISO Country Code": "CA",
+    "GRN Office": "Global Recordings Network Canada",
+    "name": "Canada"
+  },
+  "CY": {
+    "Region": "Europe",
+    "Capital": "Nicosia",
+    "Population": "801,851",
+    "Area (sq km)": "9,251",
+    "FIPS Country Code": "CY",
+    "ISO Country Code": "CY",
+    "name": "Cyprus"
+  },
+  "EN": {
+    "Region": "Europe",
+    "Capital": "Tallinn",
+    "Population": "1,340,021",
+    "Area (sq km)": "45,215",
+    "FIPS Country Code": "EN",
+    "ISO Country Code": "EE",
+    "name": "Estonia"
+  },
+  "GZ": {
+    "Region": "Asia",
+    "Capital": "Gaza",
+    "Population": "1,657,000",
+    "Area (sq km)": "365",
+    "FIPS Country Code": "GZ",
+    "ISO Country Code": "PS",
+    "name": "Gaza Strip"
+  },
+  "GG": {
+    "Region": "Europe",
+    "Capital": "TBILISI",
+    "Population": "4,436,000",
+    "Area (sq km)": "69,700",
+    "FIPS Country Code": "GG",
+    "ISO Country Code": "GE",
+    "name": "Georgia"
+  },
+  "GR": {
+    "Region": "Europe",
+    "Capital": "Athens",
+    "Population": "11,306,183",
+    "Area (sq km)": "131,957",
+    "FIPS Country Code": "GR",
+    "ISO Country Code": "GR",
+    "name": "Greece"
+  },
+  "HO": {
+    "Region": "The Americas",
+    "Capital": "Tegucigalpa",
+    "Population": "7,616,000",
+    "Area (sq km)": "112,088",
+    "FIPS Country Code": "HO",
+    "ISO Country Code": "HN",
+    "name": "Honduras"
+  },
+  "IN": {
+    "Region": "Asia",
+    "Capital": "New Delhi",
+    "Population": "1,184,639,000",
+    "Area (sq km)": "3,166,414",
+    "FIPS Country Code": "IN",
+    "ISO Country Code": "IN",
+    "name": "India"
+  },
+  "IR": {
+    "Region": "Asia",
+    "Capital": "Tehran",
+    "Population": "75,078,000",
+    "Area (sq km)": "1,648,196",
+    "FIPS Country Code": "IR",
+    "ISO Country Code": "IR",
+    "name": "Iran"
+  },
+  "IZ": {
+    "Region": "Asia",
+    "Capital": "Baghdad",
+    "Population": "31,467,000",
+    "Area (sq km)": "438,317",
+    "FIPS Country Code": "IZ",
+    "ISO Country Code": "IQ",
+    "name": "Iraq"
+  },
+  "JO": {
+    "Region": "Asia",
+    "Capital": "Amman",
+    "Population": "6,472,000",
+    "Area (sq km)": "89,206",
+    "FIPS Country Code": "JO",
+    "ISO Country Code": "JO",
+    "name": "Jordan"
+  },
+  "KZ": {
+    "Region": "Asia",
+    "Capital": "Astana",
+    "Population": "16,197,000",
+    "Area (sq km)": "2,717,300",
+    "FIPS Country Code": "KZ",
+    "ISO Country Code": "KZ",
+    "name": "Kazakhstan"
+  },
+  "KG": {
+    "Region": "Asia",
+    "Capital": "Bishkek",
+    "Population": "5,550,000",
+    "Area (sq km)": "198,500",
+    "FIPS Country Code": "KG",
+    "ISO Country Code": "KG",
+    "name": "Kyrgyzstan"
+  },
+  "LE": {
+    "Region": "Asia",
+    "Capital": "Beirut",
+    "Population": "4,255,000",
+    "Area (sq km)": "10,230",
+    "FIPS Country Code": "LE",
+    "ISO Country Code": "LB",
+    "name": "Lebanon"
+  },
+  "RO": {
+    "Region": "Europe",
+    "Capital": "Bucharest",
+    "Population": "21,466,174",
+    "Area (sq km)": "237,500",
+    "FIPS Country Code": "RO",
+    "ISO Country Code": "RO",
+    "name": "Romania"
+  },
+  "RS": {
+    "Region": "Europe",
+    "Capital": "Moscow",
+    "Population": "143,782,338",
+    "Area (sq km)": "17,075,400",
+    "FIPS Country Code": "RS",
+    "ISO Country Code": "RU",
+    "name": "Russia"
+  },
+  "SY": {
+    "Region": "Asia",
+    "Capital": "DIMASHQ (DAMASCUS)",
+    "Population": "22,505,000",
+    "Area (sq km)": "185,180",
+    "FIPS Country Code": "SY",
+    "ISO Country Code": "SY",
+    "name": "Syria"
+  },
+  "TU": {
+    "Region": "Europe",
+    "Capital": "Ankara",
+    "Population": "72,561,312",
+    "Area (sq km)": "779,452",
+    "FIPS Country Code": "TU",
+    "ISO Country Code": "TR",
+    "name": "Turkey"
+  },
+  "TX": {
+    "Region": "Asia",
+    "Capital": "ASHGABAT",
+    "Population": "5,177,000",
+    "Area (sq km)": "488,100",
+    "FIPS Country Code": "TX",
+    "ISO Country Code": "TM",
+    "name": "Turkmenistan"
+  },
+  "UP": {
+    "Region": "Europe",
+    "Capital": "Kiev",
+    "Population": "45,871,738",
+    "Area (sq km)": "603,700",
+    "FIPS Country Code": "UP",
+    "ISO Country Code": "UA",
+    "name": "Ukraine"
+  },
+  "UZ": {
+    "Region": "Asia",
+    "Capital": "Tashkent",
+    "Population": "27,794,000",
+    "Area (sq km)": "447,400",
+    "FIPS Country Code": "UZ",
+    "ISO Country Code": "UZ",
+    "name": "Uzbekistan"
+  },
+  "MX": {
+    "Region": "The Americas",
+    "Capital": "Cuidad de Mexico",
+    "Population": "108,396,211",
+    "Area (sq km)": "1,958,201",
+    "FIPS Country Code": "MX",
+    "ISO Country Code": "MX",
+    "GRN Office": "Grabaciones Buenas Nuevas Mexico",
+    "name": "Mexico"
+  },
+  "BL": {
+    "Region": "The Americas",
+    "Capital": "Sucre",
+    "Population": "10,031,000",
+    "Area (sq km)": "1,098,581",
+    "FIPS Country Code": "BL",
+    "ISO Country Code": "BO",
+    "name": "Bolivia"
+  },
+  "PE": {
+    "Region": "The Americas",
+    "Capital": "LIMA",
+    "Population": "29,461,933",
+    "Area (sq km)": "1,285,216",
+    "FIPS Country Code": "PE",
+    "ISO Country Code": "PE",
+    "name": "Peru"
+  },
+  "IV": {
+    "Region": "Africa",
+    "Capital": "Yamoussoukro",
+    "Population": "21,571,000",
+    "Area (sq km)": "320,763",
+    "FIPS Country Code": "IV",
+    "ISO Country Code": "CI",
+    "name": "Côte d'Ivoire"
+  },
+  "EK": {
+    "Region": "Africa",
+    "Capital": "Malabo",
+    "Population": "693,000",
+    "Area (sq km)": "28,051",
+    "FIPS Country Code": "EK",
+    "ISO Country Code": "GQ",
+    "name": "Equatorial Guinea"
+  },
+  "GA": {
+    "Region": "Africa",
+    "Capital": "BANJUL",
+    "Population": "1,751,000",
+    "Area (sq km)": "10,689",
+    "FIPS Country Code": "GA",
+    "ISO Country Code": "GM",
+    "GRN Office": "Gospel Recordings Gambia",
+    "name": "Gambia, The"
+  },
+  "ML": {
+    "Region": "Africa",
+    "Capital": "Bamako",
+    "Population": "14,517,176",
+    "Area (sq km)": "1,240,192",
+    "FIPS Country Code": "ML",
+    "ISO Country Code": "ML",
+    "name": "Mali"
+  },
+  "MR": {
+    "Region": "Africa",
+    "Capital": "Nouakchott",
+    "Population": "3,366,000",
+    "Area (sq km)": "1,030,700",
+    "FIPS Country Code": "MR",
+    "ISO Country Code": "MR",
+    "name": "Mauritania"
+  },
+  "SG": {
+    "Region": "Africa",
+    "Capital": "Dakar",
+    "Population": "12,861,000",
+    "Area (sq km)": "196,722",
+    "FIPS Country Code": "SG",
+    "ISO Country Code": "SN",
+    "name": "Senegal"
+  },
+  "CM": {
+    "Region": "Africa",
+    "Capital": "Yaoundé",
+    "Population": "19,958,000",
+    "Area (sq km)": "465,468",
+    "FIPS Country Code": "CM",
+    "ISO Country Code": "CM",
+    "GRN Office": "Audiovie Cameroun",
+    "name": "Cameroon"
+  },
+  "GT": {
+    "Region": "The Americas",
+    "Capital": "Guatemala City",
+    "Population": "14,377,000",
+    "Area (sq km)": "108,889",
+    "FIPS Country Code": "GT",
+    "ISO Country Code": "GT",
+    "name": "Guatemala"
+  },
+  "BX": {
+    "Region": "Asia",
+    "Capital": "Bandar Seri Begawan",
+    "Population": "407,000",
+    "Area (sq km)": "5,765",
+    "FIPS Country Code": "BX",
+    "ISO Country Code": "BN",
+    "name": "Brunei"
+  },
+  "CH": {
+    "Region": "Asia",
+    "Capital": "Beijing",
+    "Population": "1,339,190,000",
+    "Area (sq km)": "9,572,900",
+    "FIPS Country Code": "CH",
+    "ISO Country Code": "CN",
+    "name": "China"
+  },
+  "CS": {
+    "Region": "The Americas",
+    "Capital": "San José",
+    "Population": "4,640,000",
+    "Area (sq km)": "51,100",
+    "FIPS Country Code": "CS",
+    "ISO Country Code": "CR",
+    "name": "Costa Rica"
+  },
+  "HK": {
+    "Region": "Asia",
+    "Capital": "Victoria",
+    "Population": "7,155,000",
+    "Area (sq km)": "1,092",
+    "FIPS Country Code": "HK",
+    "ISO Country Code": "HK",
+    "name": "Hong Kong"
+  },
+  "ID": {
+    "Region": "Asia",
+    "Capital": "Jakarta",
+    "Population": "234,181,400",
+    "Area (sq km)": "1,919,440",
+    "FIPS Country Code": "ID",
+    "ISO Country Code": "ID",
+    "GRN Office": "Global Recordings Network Indonesia",
+    "name": "Indonesia"
+  },
+  "MC": {
+    "Region": "Asia",
+    "Population": "556,783",
+    "Area (sq km)": "17",
+    "FIPS Country Code": "MC",
+    "ISO Country Code": "MO",
+    "name": "Macau"
+  },
+  "MY": {
+    "Region": "Asia",
+    "Capital": "Kuala Lumpur",
+    "Population": "28,306,700",
+    "Area (sq km)": "330,434",
+    "FIPS Country Code": "MY",
+    "ISO Country Code": "MY",
+    "name": "Malaysia"
+  },
+  "MP": {
+    "Region": "Africa",
+    "Capital": "Port Louis",
+    "Population": "1,297,000",
+    "Area (sq km)": "2,040",
+    "FIPS Country Code": "MP",
+    "ISO Country Code": "MU",
+    "name": "Mauritius"
+  },
+  "NR": {
+    "Region": "Oceania",
+    "Capital": "Yaren",
+    "Population": "10,000",
+    "Area (sq km)": "21",
+    "FIPS Country Code": "NR",
+    "ISO Country Code": "NR",
+    "name": "Nauru"
+  },
+  "NL": {
+    "Region": "Europe",
+    "Capital": "Amsterdam",
+    "Population": "16,609,518",
+    "Area (sq km)": "41,785",
+    "FIPS Country Code": "NL",
+    "ISO Country Code": "NL",
+    "GRN Office": "Gospel Recordings Netherlands",
+    "name": "Netherlands"
+  },
+  "NZ": {
+    "Region": "Oceania",
+    "Capital": "Wellington",
+    "Population": "4,383,600",
+    "Area (sq km)": "267,515",
+    "FIPS Country Code": "NZ",
+    "ISO Country Code": "NZ",
+    "GRN Office": "Global Recordings Network Australia",
+    "name": "New Zealand"
+  },
+  "PM": {
+    "Region": "The Americas",
+    "Capital": "Panama",
+    "Population": "3,322,576",
+    "Area (sq km)": "77,082",
+    "FIPS Country Code": "PM",
+    "ISO Country Code": "PA",
+    "name": "Panama"
+  },
+  "RP": {
+    "Region": "Asia",
+    "Capital": "Manila",
+    "Population": "103,300,000",
+    "Area (sq km)": "343,448",
+    "FIPS Country Code": "RP",
+    "ISO Country Code": "PH",
+    "GRN Office": "Gospel Recordings Philippines",
+    "name": "Philippines"
+  },
+  "SN": {
+    "Region": "Asia",
+    "Capital": "Singapore",
+    "Population": "4,987,600",
+    "Area (sq km)": "622",
+    "FIPS Country Code": "SN",
+    "ISO Country Code": "SG",
+    "name": "Singapore"
+  },
+  "SF": {
+    "Region": "Africa",
+    "Capital": "Pretoria",
+    "Population": "49,991,300",
+    "Area (sq km)": "1,218,363",
+    "FIPS Country Code": "SF",
+    "ISO Country Code": "ZA",
+    "GRN Office": "GRN Southern Africa",
+    "name": "South Africa"
+  },
+  "UK": {
+    "Region": "Europe",
+    "Capital": "London",
+    "Population": "62,041,708",
+    "Area (sq km)": "244,110",
+    "FIPS Country Code": "UK",
+    "ISO Country Code": "GB",
+    "GRN Office": "Global Recordings Network UK",
+    "name": "United Kingdom"
+  },
+  "BF": {
+    "Region": "The Americas",
+    "Capital": "NASSAU",
+    "Population": "372,960",
+    "Area (sq km)": "13,939",
+    "FIPS Country Code": "BF",
+    "ISO Country Code": "BS",
+    "name": "Bahamas, The"
+  },
+  "CJ": {
+    "Region": "The Americas",
+    "Capital": "George Town",
+    "Population": "57,570",
+    "Area (sq km)": "264",
+    "FIPS Country Code": "CJ",
+    "ISO Country Code": "KY",
+    "name": "Cayman Islands"
+  },
+  "DR": {
+    "Region": "The Americas",
+    "Capital": "Santo Domingo",
+    "Population": "10,225,000",
+    "Area (sq km)": "48,443",
+    "FIPS Country Code": "DR",
+    "ISO Country Code": "DO",
+    "name": "Dominican Republic"
+  },
+  "GP": {
+    "Region": "The Americas",
+    "Capital": "Basse-Terre",
+    "Population": "405,500",
+    "Area (sq km)": "1,780",
+    "FIPS Country Code": "GP",
+    "ISO Country Code": "GP",
+    "name": "Guadeloupe"
+  },
+  "HA": {
+    "Region": "The Americas",
+    "Capital": "Port-au-Prince",
+    "Population": "10,188,000",
+    "Area (sq km)": "27,400",
+    "FIPS Country Code": "HA",
+    "ISO Country Code": "HT",
+    "name": "Haiti"
+  },
+  "RQ": {
+    "Region": "The Americas",
+    "Capital": "San Juan",
+    "Population": "3,667,000",
+    "Area (sq km)": "9,104",
+    "FIPS Country Code": "RQ",
+    "ISO Country Code": "PR",
+    "name": "Puerto Rico"
+  },
+  "AA": {
+    "Region": "The Americas",
+    "Capital": "Sint Nicolaas",
+    "Population": "102,384",
+    "Area (sq km)": "193",
+    "FIPS Country Code": "AA",
+    "ISO Country Code": "AW",
+    "name": "Aruba"
+  },
+  "BE": {
+    "Region": "Europe",
+    "Capital": "BRUSSELS",
+    "Population": "10,827,519",
+    "Area (sq km)": "30,518",
+    "FIPS Country Code": "BE",
+    "ISO Country Code": "BE",
+    "GRN Office": "Gospel Recordings Network België/Belgique",
+    "name": "Belgium"
+  },
+  "BR": {
+    "Region": "The Americas",
+    "Capital": "Brasília",
+    "Population": "193,364,000",
+    "Area (sq km)": "8,511,965",
+    "FIPS Country Code": "BR",
+    "ISO Country Code": "BR",
+    "GRN Office": "Gravações Brasil",
+    "name": "Brazil"
+  },
+  "HR": {
+    "Region": "Europe",
+    "Capital": "Zagreb",
+    "Population": "4,435,056",
+    "Area (sq km)": "56,438",
+    "FIPS Country Code": "HR",
+    "ISO Country Code": "HR",
+    "name": "Croatia"
+  },
+  "GM": {
+    "Region": "Europe",
+    "Capital": "BERLIN",
+    "Population": "81,757,600",
+    "Area (sq km)": "357,042",
+    "FIPS Country Code": "GM",
+    "ISO Country Code": "DE",
+    "GRN Office": "Internationale Sprachen Mission Germany",
+    "name": "Germany"
+  },
+  "NT": {
+    "Region": "The Americas",
+    "Capital": "WILLEMSTAD",
+    "Population": "227,049",
+    "Area (sq km)": "800",
+    "FIPS Country Code": "NT",
+    "ISO Country Code": "AN",
+    "name": "Netherlands Antilles"
+  },
+  "NS": {
+    "Region": "The Americas",
+    "Capital": "Paramaribo",
+    "Population": "524,000",
+    "Area (sq km)": "163,820",
+    "FIPS Country Code": "NS",
+    "ISO Country Code": "SR",
+    "name": "Suriname"
+  },
+  "AG": {
+    "Region": "Africa",
+    "Capital": "Algiers",
+    "Population": "35,423,000",
+    "Area (sq km)": "2,381,740",
+    "FIPS Country Code": "AG",
+    "ISO Country Code": "DZ",
+    "name": "Algeria"
+  },
+  "AN": {
+    "Region": "Europe",
+    "Capital": "Andorra la Vella",
+    "Population": "84,082",
+    "Area (sq km)": "468",
+    "FIPS Country Code": "AN",
+    "ISO Country Code": "AD",
+    "name": "Andorra"
+  },
+  "AU": {
+    "Region": "Europe",
+    "Capital": "Vienna",
+    "Population": "8,462,000",
+    "Area (sq km)": "83,855",
+    "FIPS Country Code": "AU",
+    "ISO Country Code": "AT",
+    "GRN Office": "Internationale Sprachen Mission Austria",
+    "name": "Austria"
+  },
+  "BN": {
+    "Region": "Africa",
+    "Capital": "Porto-Novo",
+    "Population": "9,212,000",
+    "Area (sq km)": "112,600",
+    "FIPS Country Code": "BN",
+    "ISO Country Code": "BJ",
+    "name": "Benin"
+  },
+  "UV": {
+    "Region": "Africa",
+    "Capital": "Ouagadougou",
+    "Population": "16,287,000",
+    "Area (sq km)": "274,200",
+    "FIPS Country Code": "UV",
+    "ISO Country Code": "BF",
+    "GRN Office": "Audiovie Burkina Faso",
+    "name": "Burkina Faso"
+  },
+  "BY": {
+    "Region": "Africa",
+    "Capital": "Bujumbura",
+    "Population": "8,519,000",
+    "Area (sq km)": "27,834",
+    "FIPS Country Code": "BY",
+    "ISO Country Code": "BI",
+    "name": "Burundi"
+  },
+  "CT": {
+    "Region": "Africa",
+    "Capital": "Bangui",
+    "Population": "4,506,000",
+    "Area (sq km)": "622,436",
+    "FIPS Country Code": "CT",
+    "ISO Country Code": "CF",
+    "name": "Central African Republic"
+  },
+  "CN": {
+    "Region": "Africa",
+    "Capital": "Moroni",
+    "Population": "691,000",
+    "Area (sq km)": "1,862",
+    "FIPS Country Code": "CN",
+    "ISO Country Code": "KM",
+    "name": "Comoros"
+  },
+  "CG": {
+    "Region": "Africa",
+    "Capital": "Kinshasa",
+    "Population": "67,827,000",
+    "Area (sq km)": "2,344,858",
+    "FIPS Country Code": "CG",
+    "ISO Country Code": "CD",
+    "name": "Congo, Democratic Republic of"
+  },
+  "CF": {
+    "Region": "Africa",
+    "Capital": "Brazzaville",
+    "Population": "3,759,000",
+    "Area (sq km)": "342,000",
+    "FIPS Country Code": "CF",
+    "ISO Country Code": "CG",
+    "name": "Congo, Republic of the"
+  },
+  "GB": {
+    "Region": "Africa",
+    "Capital": "Libreville",
+    "Population": "1,501,000",
+    "Area (sq km)": "267,667",
+    "FIPS Country Code": "GB",
+    "ISO Country Code": "GA",
+    "name": "Gabon"
+  },
+  "LU": {
+    "Region": "Europe",
+    "Capital": "Luxembourg",
+    "Population": "502,207",
+    "Area (sq km)": "2,586",
+    "FIPS Country Code": "LU",
+    "ISO Country Code": "LU",
+    "name": "Luxembourg"
+  },
+  "MF": {
+    "Region": "Africa",
+    "Capital": "Mamoudzou",
+    "Population": "212,645",
+    "Area (sq km)": "373",
+    "FIPS Country Code": "MF",
+    "ISO Country Code": "YT",
+    "name": "Mayotte"
+  },
+  "MN": {
+    "Region": "Europe",
+    "Capital": "Menton",
+    "Population": "38,400",
+    "Area (sq km)": "2",
+    "FIPS Country Code": "MN",
+    "ISO Country Code": "MC",
+    "name": "Monaco"
+  },
+  "MO": {
+    "Region": "Africa",
+    "Capital": "RABAT",
+    "Population": "31,892,000",
+    "Area (sq km)": "458,730",
+    "FIPS Country Code": "MO",
+    "ISO Country Code": "MA",
+    "name": "Morocco"
+  },
+  "MZ": {
+    "Region": "Africa",
+    "Capital": "Maputo",
+    "Population": "23,406,000",
+    "Area (sq km)": "799,380",
+    "FIPS Country Code": "MZ",
+    "ISO Country Code": "MZ",
+    "name": "Mozambique"
+  },
+  "NC": {
+    "Region": "Oceania",
+    "Capital": "NOUMEA",
+    "Population": "258,121",
+    "Area (sq km)": "18,734",
+    "FIPS Country Code": "NC",
+    "ISO Country Code": "NC",
+    "name": "New Caledonia"
+  },
+  "NG": {
+    "Region": "Africa",
+    "Capital": "NIAMEY",
+    "Population": "15,891,000",
+    "Area (sq km)": "1,186,408",
+    "FIPS Country Code": "NG",
+    "ISO Country Code": "NE",
+    "name": "Niger"
+  },
+  "RE": {
+    "Region": "Africa",
+    "Capital": "Saint-Denis",
+    "Population": "839,500",
+    "Area (sq km)": "2,544",
+    "FIPS Country Code": "RE",
+    "ISO Country Code": "RE",
+    "name": "Reunion"
+  },
+  "RW": {
+    "Region": "Africa",
+    "Capital": "Kilgali",
+    "Population": "10,277,000",
+    "Area (sq km)": "26,338",
+    "FIPS Country Code": "RW",
+    "ISO Country Code": "RW",
+    "name": "Rwanda"
+  },
+  "SA": {
+    "Region": "Asia",
+    "Capital": "Riyadh (Ar-Riyad)",
+    "Population": "26,246,000",
+    "Area (sq km)": "2,240,000",
+    "FIPS Country Code": "SA",
+    "ISO Country Code": "SA",
+    "name": "Saudi Arabia"
+  },
+  "SE": {
+    "Region": "Africa",
+    "Capital": "Victoria",
+    "Population": "93,306",
+    "Area (sq km)": "453",
+    "FIPS Country Code": "SE",
+    "ISO Country Code": "SC",
+    "name": "Seychelles"
+  },
+  "SX": {
+    "Region": "Europe",
+    "Capital": "King Edward Point",
+    "Population": "30",
+    "Area (sq km)": "3,903",
+    "FIPS Country Code": "SX",
+    "ISO Country Code": "GS",
+    "name": "South Georgia and South Sandwich Islands"
+  },
+  "SZ": {
+    "Region": "Europe",
+    "Capital": "Bern",
+    "Population": "7,782,900",
+    "Area (sq km)": "41,290",
+    "FIPS Country Code": "SZ",
+    "ISO Country Code": "CH",
+    "GRN Office": "Audio Vie Switzerland",
+    "name": "Switzerland"
+  },
+  "TO": {
+    "Region": "Africa",
+    "Capital": "Lome",
+    "Population": "6,780,000",
+    "Area (sq km)": "56,785",
+    "FIPS Country Code": "TO",
+    "ISO Country Code": "TG",
+    "GRN Office": "Audiovie Togo",
+    "name": "Togo"
+  },
+  "TS": {
+    "Region": "Africa",
+    "Capital": "Tunis",
+    "Population": "10,432,500",
+    "Area (sq km)": "154,530",
+    "FIPS Country Code": "TS",
+    "ISO Country Code": "TN",
+    "name": "Tunisia"
+  },
+  "AE": {
+    "Region": "Asia",
+    "Capital": "ABU DHABI",
+    "Population": "4,707,000",
+    "Area (sq km)": "77,700",
+    "FIPS Country Code": "AE",
+    "ISO Country Code": "AE",
+    "name": "United Arab Emirates"
+  },
+  "VQ": {
+    "Region": "The Americas",
+    "Capital": "CHARLOTTE AMALIE",
+    "Population": "106,405",
+    "Area (sq km)": "352",
+    "FIPS Country Code": "VQ",
+    "ISO Country Code": "VI",
+    "name": "US Virgin Islands"
+  },
+  "NH": {
+    "Region": "Oceania",
+    "Capital": "PORT VILA",
+    "Population": "246,000",
+    "Area (sq km)": "12,190",
+    "FIPS Country Code": "NH",
+    "ISO Country Code": "VU",
+    "name": "Vanuatu"
+  },
+  "WF": {
+    "Region": "Oceania",
+    "Capital": "MATA'UTU",
+    "Population": "15,880",
+    "Area (sq km)": "274",
+    "FIPS Country Code": "WF",
+    "ISO Country Code": "WF",
+    "name": "Wallis and Futuna"
+  },
+  "BK": {
+    "Region": "Europe",
+    "Capital": "Sarajevo",
+    "Population": "3,760,000",
+    "Area (sq km)": "51,129",
+    "FIPS Country Code": "BK",
+    "ISO Country Code": "BA",
+    "name": "Bosnia-Herzegovina"
+  },
+  "EZ": {
+    "Region": "Europe",
+    "Capital": "Prague",
+    "Population": "10,512,397",
+    "Area (sq km)": "78,864",
+    "FIPS Country Code": "EZ",
+    "ISO Country Code": "CZ",
+    "name": "Czech Republic"
+  },
+  "DA": {
+    "Region": "Europe",
+    "Capital": "Copenhagen",
+    "Population": "5,540,241",
+    "Area (sq km)": "43,092",
+    "FIPS Country Code": "DA",
+    "ISO Country Code": "DK",
+    "name": "Denmark"
+  },
+  "EC": {
+    "Region": "The Americas",
+    "Capital": "Quito",
+    "Population": "14,228,000",
+    "Area (sq km)": "269,178",
+    "FIPS Country Code": "EC",
+    "ISO Country Code": "EC",
+    "name": "Ecuador"
+  },
+  "FI": {
+    "Region": "Europe",
+    "Capital": "Helsinki",
+    "Population": "5,366,100",
+    "Area (sq km)": "338,145",
+    "FIPS Country Code": "FI",
+    "ISO Country Code": "FI",
+    "name": "Finland"
+  },
+  "HU": {
+    "Region": "Europe",
+    "Capital": "Budapest",
+    "Population": "10,013,628",
+    "Area (sq km)": "93,036",
+    "FIPS Country Code": "HU",
+    "ISO Country Code": "HU",
+    "name": "Hungary"
+  },
+  "IT": {
+    "Region": "Europe",
+    "Capital": "Rome",
+    "Population": "60,340,328",
+    "Area (sq km)": "301,278",
+    "FIPS Country Code": "IT",
+    "ISO Country Code": "IT",
+    "name": "Italy"
+  },
+  "LS": {
+    "Region": "Europe",
+    "Capital": "Vaduz",
+    "Population": "35,904",
+    "Area (sq km)": "160",
+    "FIPS Country Code": "LS",
+    "ISO Country Code": "LI",
+    "name": "Liechtenstein"
+  },
+  "MD": {
+    "Region": "Europe",
+    "Capital": "Chisinau",
+    "Population": "3,563,800",
+    "Area (sq km)": "33,700",
+    "FIPS Country Code": "MD",
+    "ISO Country Code": "MD",
+    "name": "Moldova"
+  },
+  "WA": {
+    "Region": "Africa",
+    "Capital": "Windhoek",
+    "Population": "2,212,000",
+    "Area (sq km)": "823,144",
+    "FIPS Country Code": "WA",
+    "ISO Country Code": "NA",
+    "name": "Namibia"
+  },
+  "PL": {
+    "Region": "Europe",
+    "Capital": "Warszawa",
+    "Population": "38,167,329",
+    "Area (sq km)": "312,683",
+    "FIPS Country Code": "PL",
+    "ISO Country Code": "PL",
+    "name": "Poland"
+  },
+  "LO": {
+    "Region": "Europe",
+    "Capital": "BRATISLAVA",
+    "Population": "5,426,645",
+    "Area (sq km)": "49,035",
+    "FIPS Country Code": "LO",
+    "ISO Country Code": "SK",
+    "name": "Slovakia"
+  },
+  "SI": {
+    "Region": "Europe",
+    "Capital": "LJUBLJANA",
+    "Population": "2,062,700",
+    "Area (sq km)": "20,256",
+    "FIPS Country Code": "SI",
+    "ISO Country Code": "SI",
+    "name": "Slovenia"
+  },
+  "TI": {
+    "Region": "Asia",
+    "Capital": "DUSHANBE",
+    "Population": "7,075,000",
+    "Area (sq km)": "143,100",
+    "FIPS Country Code": "TI",
+    "ISO Country Code": "TJ",
+    "name": "Tajikistan"
+  },
+  "UY": {
+    "Region": "The Americas",
+    "Capital": "Montevideo",
+    "Population": "3,372,000",
+    "Area (sq km)": "176,215",
+    "FIPS Country Code": "UY",
+    "ISO Country Code": "UY",
+    "name": "Uruguay"
+  },
+  "AQ": {
+    "Region": "Oceania",
+    "Capital": "PAGO PAGO",
+    "Population": "55,128",
+    "Area (sq km)": "199",
+    "FIPS Country Code": "AQ",
+    "ISO Country Code": "AS",
+    "name": "American Samoa"
+  },
+  "AV": {
+    "Region": "The Americas",
+    "Capital": "THE VALLEY",
+    "Population": "15,094",
+    "Area (sq km)": "91",
+    "FIPS Country Code": "AV",
+    "ISO Country Code": "AI",
+    "name": "Anguilla"
+  },
+  "AC": {
+    "Region": "The Americas",
+    "Capital": "Saint John",
+    "Population": "89,000",
+    "Area (sq km)": "442",
+    "FIPS Country Code": "AC",
+    "ISO Country Code": "AG",
+    "name": "Antigua and Barbuda"
+  },
+  "BA": {
+    "Region": "Asia",
+    "Capital": "Al-Manamah",
+    "Population": "1,318,000",
+    "Area (sq km)": "691",
+    "FIPS Country Code": "BA",
+    "ISO Country Code": "BH",
+    "name": "Bahrain"
+  },
+  "BB": {
+    "Region": "The Americas",
+    "Capital": "BRIDGETOWN",
+    "Population": "257,000",
+    "Area (sq km)": "430",
+    "FIPS Country Code": "BB",
+    "ISO Country Code": "BB",
+    "name": "Barbados"
+  },
+  "BH": {
+    "Region": "The Americas",
+    "Capital": "BELMOPAN",
+    "Population": "322,100",
+    "Area (sq km)": "22,965",
+    "FIPS Country Code": "BH",
+    "ISO Country Code": "BZ",
+    "name": "Belize"
+  },
+  "BD": {
+    "Region": "The Americas",
+    "Capital": "Hamilton*",
+    "Population": "64,806",
+    "Area (sq km)": "54",
+    "FIPS Country Code": "BD",
+    "ISO Country Code": "BM",
+    "name": "Bermuda"
+  },
+  "BC": {
+    "Region": "Africa",
+    "Capital": "Gaborone",
+    "Population": "1,978,000",
+    "Area (sq km)": "581,730",
+    "FIPS Country Code": "BC",
+    "ISO Country Code": "BW",
+    "name": "Botswana"
+  },
+  "VI": {
+    "Region": "The Americas",
+    "Capital": "ROAD TOWN",
+    "Population": "23,552",
+    "Area (sq km)": "153",
+    "FIPS Country Code": "VI",
+    "ISO Country Code": "VG",
+    "name": "British Virgin Islands"
+  },
+  "CO": {
+    "Region": "The Americas",
+    "Capital": "Santafé de Bogotá, D.C.",
+    "Population": "45,569,000",
+    "Area (sq km)": "1,141,748",
+    "FIPS Country Code": "CO",
+    "ISO Country Code": "CO",
+    "name": "Colombia"
+  },
+  "CW": {
+    "Region": "Oceania",
+    "Capital": "AVARUA",
+    "Population": "10,900",
+    "Area (sq km)": "236",
+    "FIPS Country Code": "CW",
+    "ISO Country Code": "CK",
+    "name": "Cook Islands"
+  },
+  "FJ": {
+    "Region": "Oceania",
+    "Capital": "Suva",
+    "Population": "854,000",
+    "Area (sq km)": "18,274",
+    "FIPS Country Code": "FJ",
+    "ISO Country Code": "FJ",
+    "name": "Fiji"
+  },
+  "GQ": {
+    "Region": "Oceania",
+    "Capital": "Hagåtña",
+    "Population": "162,810",
+    "Area (sq km)": "541",
+    "FIPS Country Code": "GQ",
+    "ISO Country Code": "GU",
+    "name": "Guam"
+  },
+  "JM": {
+    "Region": "The Americas",
+    "Capital": "Kingston",
+    "Population": "2,730,000",
+    "Area (sq km)": "10,991",
+    "FIPS Country Code": "JM",
+    "ISO Country Code": "JM",
+    "name": "Jamaica"
+  },
+  "JA": {
+    "Region": "Asia",
+    "Capital": "Tokyo",
+    "Population": "127,380,000",
+    "Area (sq km)": "377,801",
+    "FIPS Country Code": "JA",
+    "ISO Country Code": "JP",
+    "name": "Japan"
+  },
+  "KR": {
+    "Region": "Oceania",
+    "Capital": "South Tarawa",
+    "Population": "100,000",
+    "Area (sq km)": "849",
+    "FIPS Country Code": "KR",
+    "ISO Country Code": "KI",
+    "name": "Kiribati"
+  },
+  "KS": {
+    "Region": "Asia",
+    "Capital": "Seoul",
+    "Population": "49,773,145",
+    "Area (sq km)": "99,067",
+    "FIPS Country Code": "KS",
+    "ISO Country Code": "KR",
+    "GRN Office": "Audio Recordings Mission Korea",
+    "name": "Korea, South"
+  },
+  "MT": {
+    "Region": "Europe",
+    "Capital": "VALLETTA",
+    "Population": "416,333",
+    "Area (sq km)": "316",
+    "FIPS Country Code": "MT",
+    "ISO Country Code": "MT",
+    "name": "Malta"
+  },
+  "RM": {
+    "Region": "Oceania",
+    "Capital": "Majuro",
+    "Population": "63,000",
+    "Area (sq km)": "181",
+    "FIPS Country Code": "RM",
+    "ISO Country Code": "MH",
+    "name": "Marshall Islands"
+  },
+  "FM": {
+    "Region": "Oceania",
+    "Capital": "Palikir",
+    "Population": "111,000",
+    "Area (sq km)": "702",
+    "FIPS Country Code": "FM",
+    "ISO Country Code": "FM",
+    "name": "Micronesia, Federated States of"
+  },
+  "NP": {
+    "Region": "Asia",
+    "Capital": "Kathmandu",
+    "Population": "29,853,000",
+    "Area (sq km)": "147,181",
+    "FIPS Country Code": "NP",
+    "ISO Country Code": "NP",
+    "name": "Nepal"
+  },
+  "CQ": {
+    "Region": "Oceania",
+    "Capital": "Saipan",
+    "Population": "53,305",
+    "Area (sq km)": "477",
+    "FIPS Country Code": "CQ",
+    "ISO Country Code": "MP",
+    "name": "Northern Mariana Islands"
+  },
+  "NO": {
+    "Region": "Europe",
+    "Capital": "Oslo",
+    "Population": "4,896,700",
+    "Area (sq km)": "323,878",
+    "FIPS Country Code": "NO",
+    "ISO Country Code": "NO",
+    "name": "Norway"
+  },
+  "PK": {
+    "Region": "Asia",
+    "Capital": "Islamabad",
+    "Population": "170,260,000",
+    "Area (sq km)": "796,095",
+    "FIPS Country Code": "PK",
+    "ISO Country Code": "PK",
+    "GRN Office": "Language Recordings Institute Pakistan",
+    "name": "Pakistan"
+  },
+  "WS": {
+    "Region": "Oceania",
+    "Capital": "APIA",
+    "Population": "179,000",
+    "Area (sq km)": "2,831",
+    "FIPS Country Code": "WS",
+    "ISO Country Code": "WS",
+    "name": "Samoa"
+  },
+  "BP": {
+    "Region": "Oceania",
+    "Capital": "Honiara",
+    "Population": "536,000",
+    "Area (sq km)": "27,556",
+    "FIPS Country Code": "BP",
+    "ISO Country Code": "SB",
+    "name": "Solomon Islands"
+  },
+  "TW": {
+    "Region": "Asia",
+    "Capital": "Taipei",
+    "Population": "22,749,838",
+    "Area (sq km)": "36,000",
+    "FIPS Country Code": "TW",
+    "ISO Country Code": "TW",
+    "name": "Taiwan"
+  },
+  "TN": {
+    "Region": "Oceania",
+    "Capital": "Nuku'alofa",
+    "Population": "104,000",
+    "Area (sq km)": "747",
+    "FIPS Country Code": "TN",
+    "ISO Country Code": "TO",
+    "name": "Tonga"
+  },
+  "TK": {
+    "Region": "The Americas",
+    "Capital": "Cockburn Town",
+    "Population": "32,427",
+    "Area (sq km)": "500",
+    "FIPS Country Code": "TK",
+    "ISO Country Code": "TC",
+    "name": "Turks and Caicos Islands"
+  },
+  "TV": {
+    "Region": "Oceania",
+    "Capital": "FUNAFUTI",
+    "Population": "9,860",
+    "Area (sq km)": "24",
+    "FIPS Country Code": "TV",
+    "ISO Country Code": "TV",
+    "name": "Tuvalu"
+  },
+  "VE": {
+    "Region": "The Americas",
+    "Capital": "Caracas",
+    "Population": "28,888,000",
+    "Area (sq km)": "912,050",
+    "FIPS Country Code": "VE",
+    "ISO Country Code": "VE",
+    "name": "Venezuela"
+  },
+  "BG": {
+    "Region": "Asia",
+    "Capital": "Dhaka",
+    "Population": "164,425,000",
+    "Area (sq km)": "143,998",
+    "FIPS Country Code": "BG",
+    "ISO Country Code": "BD",
+    "GRN Office": "GRN / HELP Bangladesh",
+    "name": "Bangladesh"
+  },
+  "BT": {
+    "Region": "Asia",
+    "Capital": "Thimphu",
+    "Population": "741,822",
+    "Area (sq km)": "47,000",
+    "FIPS Country Code": "BT",
+    "ISO Country Code": "BT",
+    "name": "Bhutan"
+  },
+  "KE": {
+    "Region": "Africa",
+    "Capital": "Nairobi Area",
+    "Population": "40,863,000",
+    "Area (sq km)": "582,646",
+    "FIPS Country Code": "KE",
+    "ISO Country Code": "KE",
+    "GRN Office": "Language Recordings International Kenya",
+    "name": "Kenya"
+  },
+  "UG": {
+    "Region": "Africa",
+    "Capital": "Kampala",
+    "Population": "33,796,000",
+    "Area (sq km)": "241,040",
+    "FIPS Country Code": "UG",
+    "ISO Country Code": "UG",
+    "name": "Uganda"
+  },
+  "YM": {
+    "Region": "Asia",
+    "Capital": "San'a'",
+    "Population": "24,256,000",
+    "Area (sq km)": "531,869",
+    "FIPS Country Code": "YM",
+    "ISO Country Code": "YE",
+    "name": "Yemen"
+  },
+  "ZA": {
+    "Region": "Africa",
+    "Capital": "Lusaka",
+    "Population": "13,257,000",
+    "Area (sq km)": "752,614",
+    "FIPS Country Code": "ZA",
+    "ISO Country Code": "ZM",
+    "name": "Zambia"
+  },
+  "PA": {
+    "Region": "The Americas",
+    "Capital": "Asunción",
+    "Population": "6,460,000",
+    "Area (sq km)": "406,752",
+    "FIPS Country Code": "PA",
+    "ISO Country Code": "PY",
+    "name": "Paraguay"
+  },
+  "SM": {
+    "Region": "Europe",
+    "Capital": "San Marino",
+    "Population": "32,386",
+    "Area (sq km)": "61",
+    "FIPS Country Code": "SM",
+    "ISO Country Code": "SM",
+    "name": "San Marino"
+  },
+  "VT": {
+    "Region": "Europe",
+    "Population": "800",
+    "Area (sq km)": "1",
+    "FIPS Country Code": "VT",
+    "ISO Country Code": "VA",
+    "name": "Vatican City"
+  },
+  "ES": {
+    "Region": "The Americas",
+    "Capital": "San Salvador",
+    "Population": "6,194,000",
+    "Area (sq km)": "21,041",
+    "FIPS Country Code": "ES",
+    "ISO Country Code": "SV",
+    "name": "El Salvador"
+  },
+  "AO": {
+    "Region": "Africa",
+    "Capital": "Luanda",
+    "Population": "18,993,000",
+    "Area (sq km)": "1,246,700",
+    "FIPS Country Code": "AO",
+    "ISO Country Code": "AO",
+    "name": "Angola"
+  },
+  "TZ": {
+    "Region": "Africa",
+    "Capital": "Dodoma",
+    "Population": "45,040,000",
+    "Area (sq km)": "945,037",
+    "FIPS Country Code": "TZ",
+    "ISO Country Code": "TZ",
+    "name": "Tanzania"
+  },
+  "CU": {
+    "Region": "The Americas",
+    "Capital": "Havana",
+    "Population": "11,204,000",
+    "Area (sq km)": "110,861",
+    "FIPS Country Code": "CU",
+    "ISO Country Code": "CU",
+    "name": "Cuba"
+  },
+  "KN": {
+    "Region": "Asia",
+    "Capital": "PYONGGANG",
+    "Population": "23,991,000",
+    "Area (sq km)": "122,370",
+    "FIPS Country Code": "KN",
+    "ISO Country Code": "KP",
+    "name": "Korea, North"
+  },
+  "MA": {
+    "Region": "Africa",
+    "Capital": "Antananarivo",
+    "Population": "21,146,000",
+    "Area (sq km)": "587,041",
+    "FIPS Country Code": "MA",
+    "ISO Country Code": "MG",
+    "name": "Madagascar"
+  },
+  "MG": {
+    "Region": "Asia",
+    "Capital": "Ulaanbaatar",
+    "Population": "2,768,800",
+    "Area (sq km)": "1,565,000",
+    "FIPS Country Code": "MG",
+    "ISO Country Code": "MN",
+    "name": "Mongolia"
+  },
+  "BM": {
+    "Region": "Asia",
+    "Capital": "Naypyidaw",
+    "Population": "50,496,000",
+    "Area (sq km)": "676,577",
+    "FIPS Country Code": "BM",
+    "ISO Country Code": "MM",
+    "name": "Myanmar"
+  },
+  "PP": {
+    "Region": "Oceania",
+    "Capital": "Port Moresby",
+    "Population": "6,888,000",
+    "Area (sq km)": "462,840",
+    "FIPS Country Code": "PP",
+    "ISO Country Code": "PG",
+    "GRN Office": "Global Recordings Network PNG",
+    "name": "Papua New Guinea"
+  },
+  "SP": {
+    "Region": "Europe",
+    "Capital": "Madrid",
+    "Population": "47,270,000",
+    "Area (sq km)": "504,783",
+    "FIPS Country Code": "SP",
+    "ISO Country Code": "ES",
+    "GRN Office": "Grabaciones Buenas Nuevas Spain",
+    "name": "Spain"
+  },
+  "GH": {
+    "Region": "Africa",
+    "Capital": "Accra",
+    "Population": "24,333,000",
+    "Area (sq km)": "238,533",
+    "FIPS Country Code": "GH",
+    "ISO Country Code": "GH",
+    "GRN Office": "Global Recordings Network Ghana",
+    "name": "Ghana"
+  },
+  "PO": {
+    "Region": "Europe",
+    "Capital": "LISBON",
+    "Population": "10,636,888",
+    "Area (sq km)": "92,389",
+    "FIPS Country Code": "PO",
+    "ISO Country Code": "PT",
+    "name": "Portugal"
+  },
+  "BO": {
+    "Region": "Europe",
+    "Capital": "Minsk",
+    "Population": "9,471,900",
+    "Area (sq km)": "207,600",
+    "FIPS Country Code": "BO",
+    "ISO Country Code": "BY",
+    "name": "Belarus"
+  },
+  "LG": {
+    "Region": "Europe",
+    "Capital": "Riga",
+    "Population": "2,237,800",
+    "Area (sq km)": "64,610",
+    "FIPS Country Code": "LG",
+    "ISO Country Code": "LV",
+    "name": "Latvia"
+  },
+  "LH": {
+    "Region": "Europe",
+    "Capital": "Vilnius",
+    "Population": "3,329,227",
+    "Area (sq km)": "65,301",
+    "FIPS Country Code": "LH",
+    "ISO Country Code": "LT",
+    "name": "Lithuania"
+  },
+  "RI": {
+    "Region": "Europe",
+    "Capital": "BELGRADE",
+    "Population": "7,442,000",
+    "Area (sq km)": "88,361",
+    "FIPS Country Code": "RI",
+    "ISO Country Code": "RS",
+    "name": "Serbia"
+  },
+  "SV": {
+    "Region": "Europe",
+    "Capital": "Longyearbyen",
+    "Population": "2,642",
+    "Area (sq km)": "61,022",
+    "FIPS Country Code": "SV",
+    "ISO Country Code": "SJ",
+    "name": "Svalbard"
+  },
+  "MU": {
+    "Region": "Asia",
+    "Capital": "Muscat (Masqat)",
+    "Population": "2,905,000",
+    "Area (sq km)": "300,000",
+    "FIPS Country Code": "MU",
+    "ISO Country Code": "OM",
+    "name": "Oman"
+  },
+  "GY": {
+    "Region": "The Americas",
+    "Capital": "Georgetown",
+    "Population": "761,000",
+    "Area (sq km)": "215,000",
+    "FIPS Country Code": "GY",
+    "ISO Country Code": "GY",
+    "name": "Guyana"
+  },
+  "MI": {
+    "Region": "Africa",
+    "Capital": "Lilongwe",
+    "Population": "15,692,000",
+    "Area (sq km)": "118,484",
+    "FIPS Country Code": "MI",
+    "ISO Country Code": "MW",
+    "GRN Office": "Global Recordings Network Malawi",
+    "name": "Malawi"
+  },
+  "QA": {
+    "Region": "Europe",
+    "Capital": "Ad-Dawhah",
+    "Population": "1,696,563",
+    "Area (sq km)": "11,400",
+    "FIPS Country Code": "QA",
+    "ISO Country Code": "QA",
+    "name": "Qatar"
+  },
+  "NI": {
+    "Region": "Africa",
+    "Capital": "ABUJA",
+    "Population": "170,123,000",
+    "Area (sq km)": "923,768",
+    "FIPS Country Code": "NI",
+    "ISO Country Code": "NG",
+    "GRN Office": "Gospel Recordings Nigeria",
+    "name": "Nigeria"
+  },
+  "SL": {
+    "Region": "Africa",
+    "Capital": "Freetown",
+    "Population": "5,836,000",
+    "Area (sq km)": "71,740",
+    "FIPS Country Code": "SL",
+    "ISO Country Code": "SL",
+    "GRN Office": "Gospel Recordings Sierra Leone",
+    "name": "Sierra Leone"
+  },
+  "OD": {
+    "Region": "Africa",
+    "Capital": "Juba",
+    "Population": "8,260,490",
+    "Area (sq km)": "619,745",
+    "FIPS Country Code": "OD",
+    "ISO Country Code": "SS",
+    "name": "South Sudan"
+  },
+  "SU": {
+    "Region": "Africa",
+    "Capital": "Khartoum",
+    "Population": "37,200,000",
+    "Area (sq km)": "2,503,890",
+    "FIPS Country Code": "SU",
+    "ISO Country Code": "SD",
+    "name": "Sudan"
+  },
+  "WZ": {
+    "Region": "Africa",
+    "Capital": "Mbabane",
+    "Population": "1,202,000",
+    "Area (sq km)": "17,364",
+    "FIPS Country Code": "WZ",
+    "ISO Country Code": "SZ",
+    "name": "Eswatini"
+  },
+  "LT": {
+    "Region": "Africa",
+    "Capital": "Maseru",
+    "Population": "2,084,000",
+    "Area (sq km)": "30,355",
+    "FIPS Country Code": "LT",
+    "ISO Country Code": "LS",
+    "name": "Lesotho"
+  },
+  "ZI": {
+    "Region": "Africa",
+    "Capital": "HARARE",
+    "Population": "12,644,000",
+    "Area (sq km)": "390,759",
+    "FIPS Country Code": "ZI",
+    "ISO Country Code": "ZW",
+    "name": "Zimbabwe"
+  },
+  "PS": {
+    "Region": "Oceania",
+    "Capital": "Ngerulmud",
+    "Population": "20,000",
+    "Area (sq km)": "488",
+    "FIPS Country Code": "PS",
+    "ISO Country Code": "PW",
+    "name": "Palau"
+  },
+  "AL": {
+    "Region": "Europe",
+    "Capital": "Tiranë",
+    "Population": "3,195,000",
+    "Area (sq km)": "28,748",
+    "FIPS Country Code": "AL",
+    "ISO Country Code": "AL",
+    "name": "Albania"
+  },
+  "MK": {
+    "Region": "Europe",
+    "Capital": "Skopje",
+    "Population": "2,048,620",
+    "Area (sq km)": "25,713",
+    "FIPS Country Code": "MK",
+    "ISO Country Code": "MK",
+    "name": "North Macedonia"
+  },
+  "GV": {
+    "Region": "Africa",
+    "Capital": "Conakry",
+    "Population": "10,324,000",
+    "Area (sq km)": "245,857",
+    "FIPS Country Code": "GV",
+    "ISO Country Code": "GN",
+    "name": "Guinea"
+  },
+  "PU": {
+    "Region": "Africa",
+    "Capital": "Bissau",
+    "Population": "1,647,000",
+    "Area (sq km)": "36,125",
+    "FIPS Country Code": "PU",
+    "ISO Country Code": "GW",
+    "name": "Guinea-Bissau"
+  },
+  "LI": {
+    "Region": "Africa",
+    "Capital": "Monrovia",
+    "Population": "3,476,608",
+    "Area (sq km)": "99,067",
+    "FIPS Country Code": "LI",
+    "ISO Country Code": "LR",
+    "name": "Liberia"
+  },
+  "CE": {
+    "Region": "Asia",
+    "Capital": "Colombo",
+    "Population": "20,410,000",
+    "Area (sq km)": "65,610",
+    "FIPS Country Code": "CE",
+    "ISO Country Code": "LK",
+    "name": "Sri Lanka"
+  },
+  "NU": {
+    "Region": "The Americas",
+    "Capital": "Managua",
+    "Population": "5,822,000",
+    "Area (sq km)": "127,849",
+    "FIPS Country Code": "NU",
+    "ISO Country Code": "NI",
+    "name": "Nicaragua"
+  },
+  "GL": {
+    "Region": "The Americas",
+    "Capital": "Nuuk",
+    "Population": "56,840",
+    "Area (sq km)": "2,175,600",
+    "FIPS Country Code": "GL",
+    "ISO Country Code": "GL",
+    "name": "Greenland"
+  },
+  "IC": {
+    "Region": "Europe",
+    "Capital": "Reykjavik",
+    "Population": "317,900",
+    "Area (sq km)": "103,000",
+    "FIPS Country Code": "IC",
+    "ISO Country Code": "IS",
+    "name": "Iceland"
+  },
+  "FP": {
+    "Region": "Oceania",
+    "Capital": "PAPEETE",
+    "Population": "273,814",
+    "Area (sq km)": "3,521",
+    "FIPS Country Code": "FP",
+    "ISO Country Code": "PF",
+    "name": "French Polynesia"
+  },
+  "MV": {
+    "Region": "Asia",
+    "Capital": "Male'",
+    "Population": "314,000",
+    "Area (sq km)": "298",
+    "FIPS Country Code": "MV",
+    "ISO Country Code": "MV",
+    "name": "Maldives"
+  },
+  "NE": {
+    "Region": "Oceania",
+    "Capital": "ALOFI",
+    "Population": "1,398",
+    "Area (sq km)": "258",
+    "FIPS Country Code": "NE",
+    "ISO Country Code": "NU",
+    "name": "Niue"
+  },
+  "TT": {
+    "Region": "Oceania",
+    "Capital": "Dili",
+    "Population": "1,210,000",
+    "Area (sq km)": "15,410",
+    "FIPS Country Code": "TT",
+    "ISO Country Code": "TL",
+    "name": "Timor-Leste"
+  },
+  "CV": {
+    "Region": "Africa",
+    "Capital": "Praia",
+    "Population": "513,000",
+    "Area (sq km)": "4,033",
+    "FIPS Country Code": "CV",
+    "ISO Country Code": "CV",
+    "name": "Cape Verde"
+  },
+  "VC": {
+    "Region": "The Americas",
+    "Capital": "KINGSTOWN",
+    "Population": "109,000",
+    "Area (sq km)": "389",
+    "FIPS Country Code": "VC",
+    "ISO Country Code": "VC",
+    "name": "Saint Vincent and the Grenadines"
+  },
+  "TP": {
+    "Region": "Africa",
+    "Capital": "Sao Tome",
+    "Population": "165,000",
+    "Area (sq km)": "1,001",
+    "FIPS Country Code": "TP",
+    "ISO Country Code": "ST",
+    "name": "São Tomé and Príncipe"
+  },
+  "WI": {
+    "Region": "Africa",
+    "Capital": "Laayoune",
+    "Population": "513,000",
+    "Area (sq km)": "252,120",
+    "FIPS Country Code": "WI",
+    "ISO Country Code": "EH",
+    "name": "Western Sahara"
+  },
+  "SC": {
+    "Region": "The Americas",
+    "Capital": "Basseterre",
+    "Population": "38,960",
+    "Area (sq km)": "267",
+    "FIPS Country Code": "SC",
+    "ISO Country Code": "KN",
+    "name": "Saint Kitts and Nevis"
+  },
+  "MJ": {
+    "Region": "Europe",
+    "Capital": "Podgorica  Metroplex_1",
+    "Population": "621,081",
+    "Area (sq km)": "13,812",
+    "FIPS Country Code": "MJ",
+    "ISO Country Code": "ME",
+    "name": "Montenegro"
+  },
+  "EI": {
+    "Region": "Europe",
+    "Capital": "DUBLIN",
+    "Population": "4,459,300",
+    "Area (sq km)": "70,285",
+    "FIPS Country Code": "EI",
+    "ISO Country Code": "IE",
+    "name": "Ireland"
+  },
+  "KU": {
+    "Region": "Asia",
+    "Capital": "Kuwait City",
+    "Population": "3,051,000",
+    "Area (sq km)": "17,818",
+    "FIPS Country Code": "KU",
+    "ISO Country Code": "KW",
+    "name": "Kuwait"
+  },
+  "DO": {
+    "Region": "The Americas",
+    "Capital": "Roseau",
+    "Population": "67,000",
+    "Area (sq km)": "750",
+    "FIPS Country Code": "DO",
+    "ISO Country Code": "DM",
+    "name": "Dominica"
+  },
+  "GJ": {
+    "Region": "The Americas",
+    "Capital": "Saint George's",
+    "Population": "104,000",
+    "Area (sq km)": "345",
+    "FIPS Country Code": "GJ",
+    "ISO Country Code": "GD",
+    "name": "Grenada"
+  },
+  "MB": {
+    "Region": "The Americas",
+    "Capital": "Fort-de-France",
+    "Population": "412,305",
+    "Area (sq km)": "1,091",
+    "FIPS Country Code": "MB",
+    "ISO Country Code": "MQ",
+    "name": "Martinique"
+  },
+  "ST": {
+    "Region": "The Americas",
+    "Capital": "Castries",
+    "Population": "174,000",
+    "Area (sq km)": "617",
+    "FIPS Country Code": "ST",
+    "ISO Country Code": "LC",
+    "name": "Saint Lucia"
+  },
+  "TD": {
+    "Region": "The Americas",
+    "Capital": "PORT OF SPAIN",
+    "Population": "1,344,000",
+    "Area (sq km)": "5,124",
+    "FIPS Country Code": "TD",
+    "ISO Country Code": "TT",
+    "name": "Trinidad and Tobago"
+  },
+  "KV": {
+    "Region": "Europe",
+    "Capital": "Pristina  Metroplex_1",
+    "Population": "1,803,000",
+    "Area (sq km)": "10,908",
+    "FIPS Country Code": "KV",
+    "ISO Country Code": "XK",
+    "name": "Kosovo"
+  },
+  "NF": {
+    "Region": "Oceania",
+    "Capital": "Kingston",
+    "Population": "2,169",
+    "Area (sq km)": "35",
+    "FIPS Country Code": "NF",
+    "ISO Country Code": "NF",
+    "name": "Norfolk Island"
+  },
+  "FO": {
+    "Region": "Europe",
+    "Capital": "TORSHAVN",
+    "Population": "49,506",
+    "Area (sq km)": "1,399",
+    "FIPS Country Code": "FO",
+    "ISO Country Code": "FO",
+    "name": "Faroe Islands"
+  }
+}
